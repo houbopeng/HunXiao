@@ -5,4 +5,5 @@ package demo.com.hunxiao;
  */
 
 public class MyPojo {
+  public String ningning;
 }
