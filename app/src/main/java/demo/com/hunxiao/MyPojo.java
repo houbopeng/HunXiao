@@ -6,4 +6,5 @@ package demo.com.hunxiao;
 
 public class MyPojo {
 String aaa;
+    String bb;
 }
